@@ -54,5 +54,4 @@ with a recommendation for a real-time clock (RTC) module in long-term deployment
 *   Machine learning algorithms to predict occupancy trends.
 
 ## License
-
-## YASHARTH KESARWANI
+YASHARTH KESARWANI
